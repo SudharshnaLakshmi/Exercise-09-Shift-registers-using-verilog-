@@ -117,7 +117,7 @@ endmodule
 ![output](./pipo/rtl.png)
 
 ### Serial-In Parallel-Out(SIPO)
-![output](./sipo/rtl.png
+![output](./sipo/rtl.png)
 
 ## TIMING DIGRAMS FOR SHIFT REGISTERS
 
