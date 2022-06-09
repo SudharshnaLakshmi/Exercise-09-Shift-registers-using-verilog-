@@ -1,0 +1,15 @@
+|pipo
+PI[0] => PO[0]~reg0.DATAIN
+PI[1] => PO[1]~reg0.DATAIN
+PI[2] => PO[2]~reg0.DATAIN
+PI[3] => PO[3]~reg0.DATAIN
+Clk => PO[0]~reg0.CLK
+Clk => PO[1]~reg0.CLK
+Clk => PO[2]~reg0.CLK
+Clk => PO[3]~reg0.CLK
+PO[0] <= PO[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[1] <= PO[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[2] <= PO[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[3] <= PO[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

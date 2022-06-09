@@ -1,0 +1,13 @@
+|sipo
+SI => temp[7].DATAIN
+Clk => temp[7].CLK
+Po[7] <= temp[7].DB_MAX_OUTPUT_PORT_TYPE
+Po[6] <= <GND>
+Po[5] <= <GND>
+Po[4] <= <GND>
+Po[3] <= <GND>
+Po[2] <= <GND>
+Po[1] <= <GND>
+Po[0] <= <GND>
+
+

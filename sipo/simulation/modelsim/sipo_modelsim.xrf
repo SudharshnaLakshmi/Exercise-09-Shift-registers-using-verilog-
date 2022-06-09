@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, D:/DE/sipo/sipo.v
+source_file = 1, D:/DE/sipo/db/sipo.cbx.xml
+design_name = sipo
+instance = comp, \Po[7]~output , Po[7]~output, sipo, 1
+instance = comp, \Po[6]~output , Po[6]~output, sipo, 1
+instance = comp, \Po[5]~output , Po[5]~output, sipo, 1
+instance = comp, \Po[4]~output , Po[4]~output, sipo, 1
+instance = comp, \Po[3]~output , Po[3]~output, sipo, 1
+instance = comp, \Po[2]~output , Po[2]~output, sipo, 1
+instance = comp, \Po[1]~output , Po[1]~output, sipo, 1
+instance = comp, \Po[0]~output , Po[0]~output, sipo, 1
+instance = comp, \Clk~input , Clk~input, sipo, 1
+instance = comp, \SI~input , SI~input, sipo, 1
+instance = comp, \temp[7]~feeder , temp[7]~feeder, sipo, 1
+instance = comp, \temp[7] , temp[7], sipo, 1

@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, D:/DE/piso/piso.v
+source_file = 1, D:/DE/piso/db/piso.cbx.xml
+design_name = piso
+instance = comp, \So~output , So~output, piso, 1
+instance = comp, \Clk~input , Clk~input, piso, 1
+instance = comp, \Pin[0]~input , Pin[0]~input, piso, 1
+instance = comp, \Pin[1]~input , Pin[1]~input, piso, 1
+instance = comp, \Pin[2]~input , Pin[2]~input, piso, 1
+instance = comp, \Pin[3]~input , Pin[3]~input, piso, 1
+instance = comp, \Load~input , Load~input, piso, 1

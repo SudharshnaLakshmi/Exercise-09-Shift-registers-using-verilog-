@@ -1,0 +1,15 @@
+module piso(Clk,Pin,So,Load);
+input Clk,Load;
+input [3:0] Pin;
+output reg So;
+reg [3:0] temp;
+always (posedge Clk)
+begin
+if(Load)
+temp<=Pin;
+else
+So<=temp[3];
+temp<=
+{temp[0:2],1'b0}
+end
+endmodule

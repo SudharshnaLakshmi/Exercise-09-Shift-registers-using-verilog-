@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\DE\pipo\simulation\qsim
+vpipo
+Z1 !s100 RLmNM=@Ez@_IYjG62DGaj2
+Z2 Il5XS>F=<D[Qi`;2UKW9AU0
+Z3 VEY:dbP[Gk;Ql46PM8JK^L2
+Z4 dD:\DE\pipo\simulation\qsim
+Z5 w1654488238
+Z6 8pipo.vo
+Z7 Fpipo.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|pipo.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1654488239.404000
+Z12 !s107 pipo.vo|
+!s101 -O0
+vpipo_vlg_check_tst
+!i10b 1
+!s100 ]1@_`_fOW;fY13<RVK:<N1
+IL5LP<EX<L8SU_6mWbH?BB2
+Z13 VE_W6S=?EcI][02eRaZZ4A1
+R4
+Z14 w1654488236
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z17 !s108 1654488239.591000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+vpipo_vlg_sample_tst
+!i10b 1
+Z20 !s100 Obj^ZVHDhWkJg4CDH56B<3
+Z21 IV2aNNOVGbEW5QkNjn9QO]0
+Z22 Vmzk>XHdQeP`H>d383ShHo1
+R4
+R14
+R15
+R16
+L0 29
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
+vpipo_vlg_vec_tst
+!i10b 1
+Z23 !s100 3AE>HNcAPnPKz`VXTablG1
+Z24 I3jPf>A[@`]gBJ7T4]ga?90
+Z25 VMUK2gnE3XMX7mjUe2eKb@1
+R4
+R14
+R15
+R16
+Z26 L0 207
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
